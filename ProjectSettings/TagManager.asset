@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Floor
+  - Rope
+  - Ladder
+  - Projectile
+  - Turret
+  - Light
+  - Pushable
+  - SubtitleText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - Light
+  - DarkPlayer
+  - LightPlayer
+  - DarkObstacle
+  - 
+  - 
+  - EndingTrigger
+  - LightGround
+  - LightObstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backround
+    uniqueID: 1645814933
+    locked: 0
+  - name: ground
+    uniqueID: 590290581
+    locked: 0
+  - name: platforms
+    uniqueID: 498802917
+    locked: 0
+  - name: above ground
+    uniqueID: 86729465
+    locked: 0
+  m_RenderingLayers:
+  - Default
