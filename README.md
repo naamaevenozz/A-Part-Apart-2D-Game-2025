@@ -1,5 +1,5 @@
 # A Part Apart
-![image](https://github.com/user-attachments/assets/617b2ebc-ba06-4e58-ae75-269ec043588c)
+<img width="1700" height="928" alt="image" src="https://github.com/user-attachments/assets/3c6491aa-0d35-4bf4-9d22-e97890aaa4be" />
 
 ## About the Game  
 *A Part Apart* is a 2D psychological puzzle-platformer that explores the fragile and changing relationship between a boy and his shadow. The game is for two players - one living in the light, the other confined in the darkness - to solve puzzles together while dealing with emotional and narrative tension.
@@ -37,13 +37,13 @@ A third presence - the voice of the system - guides, mocks and manipulates the t
 - Gradually deepening visual metaphors: the possibility of harm in order to advance, and more.
 
   
-![image](https://github.com/user-attachments/assets/e9f67926-3d1a-4ccd-92cb-a7117e68da2c)
+<img width="1050" height="539" alt="image" src="https://github.com/user-attachments/assets/381e04de-1ab0-49fb-8584-8ea9b3643c62" />
 
 ---
 
 ## Art Style
 
-![image](https://github.com/user-attachments/assets/27522bba-40b2-4d5c-8135-794067abf190)
+<img width="1773" height="909" alt="image" src="https://github.com/user-attachments/assets/66869477-b373-41e1-9b27-f57a21a36c52" />
 
 - **Minimalist and symbolic**, but emotionally charged.
 - **Cold colors** The game uses black, white, and gray colors, there is parallax in the layers of the world, the boy and his shadow are small in comparison.
