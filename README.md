@@ -1,5 +1,5 @@
 # A Part Apart
-<img width="1700" height="928" alt="image" src="https://github.com/user-attachments/assets/3c6491aa-0d35-4bf4-9d22-e97890aaa4be" />
+<img width="1098" height="646" alt="image" src="https://github.com/user-attachments/assets/7d6e2471-4867-471d-b909-76612eacd6ac" />
 
 ## About the Game  
 *A Part Apart* is a 2D psychological puzzle-platformer that explores the fragile and changing relationship between a boy and his shadow. The game is for two players - one living in the light, the other confined in the darkness - to solve puzzles together while dealing with emotional and narrative tension.
@@ -9,6 +9,7 @@ As the game develops, the illusion of choice becomes central: the boy turns to t
 A third presence - the voice of the system - guides, mocks and manipulates the two characters, slowly pushing them apart, questioning their trust and turning their relationship into a test of control and consequences.
 
 ---
+<img width="1213" height="638" alt="image" src="https://github.com/user-attachments/assets/26ddf521-964d-4fb6-927c-7964c2adfb61" />
 
 ## Core Mechanics
 - **Puzzle Solving**: Understanding who the powerful character is will help advance to the next level.
@@ -23,6 +24,7 @@ A third presence - the voice of the system - guides, mocks and manipulates the t
 
 - **Betrayal Mechanics (Final Scene)**: The shadow can choose to sabotage the child and vice versa, testing the player's emotional connections and morality.
 ---
+<img width="1210" height="561" alt="image" src="https://github.com/user-attachments/assets/42746d21-368f-4a56-bc80-8a147565cc20" />
 
 ## Player Mechanics
 - `WASD` — Movement (Shadow)
