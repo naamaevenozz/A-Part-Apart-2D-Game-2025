@@ -45,8 +45,6 @@ A third presence - the voice of the system - guides, mocks and manipulates the t
 
 ## Art Style
 
-<img width="1773" height="909" alt="image" src="https://github.com/user-attachments/assets/66869477-b373-41e1-9b27-f57a21a36c52" />
-
 - **Minimalist and symbolic**, but emotionally charged.
 - **Cold colors** The game uses black, white, and gray colors, there is parallax in the layers of the world, the boy and his shadow are small in comparison.
 - **The boy and the shadow** are drawn in contrasting but complementary styles (e.g., line art versus solid shapes).
