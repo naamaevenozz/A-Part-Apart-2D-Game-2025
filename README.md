@@ -74,7 +74,6 @@ A third presence - the voice of the system - guides, mocks and manipulates the t
 
 ## External Links
 
-## Code review video : https://www.youtube.com/watch?v=e_wgGly4GjU
 ## Gameplay video : https://youtu.be/kIpl-_v5hYk
 
 # A-Part-Apart-Naama-Even-Oz
